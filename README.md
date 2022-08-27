@@ -1,11 +1,6 @@
 
 ## வணக்கம்🙏
 __I'm *Soundarya* and I'm a front end dev.__
-
-- 🔭 I’m currently working on React projects
-- 👯 I’m looking to collaborate on various open source projects
-- 🤔 I’m looking for help with getting a job 🤓 
-- 😄 Pronouns: she/her
 <p align="center"> 
 <a href="https://www.linkedin.com/in/soundarya-k/"><img src="https://img.shields.io/badge/soundaryak-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/sounsrk/"><img src = "https://img.shields.io/badge/sounsrk-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"></a>
